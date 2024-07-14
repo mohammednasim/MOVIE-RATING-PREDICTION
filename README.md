@@ -1,1 +1,5 @@
-This project serves as a foundational effort towards predicting movie ratings effectively. By sharing this analysis on GitHub, I aim to demonstrate my data analysis and modeling skills, as well as highlight potential avenues for further refinement and improvement in predictive accuracy.
+🎬 Movie Rating Prediction Project 📊
+
+Analyze and predict movie ratings using #DataScience and #MachineLearning! This project features data cleaning, one-hot encoding, and a trained Linear Regression model. Uncover insights into movie ratings and explore avenues for model enhancement. 🌟🎥
+
+Check out the code for #DataAnalysis and #PredictiveModeling! 🚀
