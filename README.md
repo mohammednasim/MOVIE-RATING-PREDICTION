@@ -1,0 +1,1 @@
+This project serves as a foundational effort towards predicting movie ratings effectively. By sharing this analysis on GitHub, I aim to demonstrate my data analysis and modeling skills, as well as highlight potential avenues for further refinement and improvement in predictive accuracy.
